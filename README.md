@@ -10,7 +10,7 @@ Per fermale lo stack applicativo usare il comando 'bin/stop.sh'.
 
 ## Root Del Progetto
 
-Progetto per il test pratico per bacckend Marco Vannoli
+Progetto per il test pratico per backend Marco Vannoli
 
 ## Installation
 
