@@ -51,4 +51,4 @@ Collection :  "BigProfilesData"
 
 ## Test Api Client
 
-usare i metodi per richiamanre l'api el file test.py
+Usare i metodi per richiamanre l'api nel file test.py
