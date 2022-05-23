@@ -1,0 +1,5 @@
+{
+    "database": "BigProfilesDB",
+    "collection":"BigProfilesData",
+    "connection_string": "mongodb+srv://vannoli:PassWord95@clusterbigprofile.cqrw1.mongodb.net/test"
+}
